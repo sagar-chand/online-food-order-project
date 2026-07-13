@@ -18,8 +18,8 @@ A responsive Online Food Ordering website built using HTML, CSS, and JavaScript.
 
 - HTML5
 - CSS3
-- bootstrap5
-- jquery
+- Bootstrap5
+- Jquery
 - JavaScript (ES6)
 
 ## ▶️ How to Run
@@ -27,7 +27,7 @@ A responsive Online Food Ordering website built using HTML, CSS, and JavaScript.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/online-food-order.git
+git clone https://github.com/sagar-chand/online-food-order.git
 ```
 
 
